@@ -1,3 +1,4 @@
+
 # Retail Sales Analysis Dashboard
 
 A Power BI project focused on analyzing retail sales data and generating business insights through interactive visualizations and dashboards.
@@ -131,16 +132,31 @@ Data Visualization
 Dashboard Development
         ↓
 Business Insights Generation
+````
 
+---
 
-⚙️ Installation
-Clone Repository
-git clone https://github.com/your-username/retail-sales-dashboard.git
-▶️ Usage
-Open the .pbix file in Power BI Desktop
-Refresh dataset if required
-Use slicers and filters to explore insights
-📁 Project Structure
+# ⚙️ Installation
+
+## Clone Repository
+
+```bash 
+git clone https://github.com/mathavan55/Retail_Sales_Analysis.git
+```
+
+---
+
+# ▶️ Usage
+
+1. Open the `.pbix` file in Power BI Desktop
+2. Refresh dataset if required
+3. Use slicers and filters to explore insights
+
+---
+
+# 📁 Project Structure
+
+```text id
 Retail-Sales-Dashboard/
 │
 ├── dataset/
@@ -153,35 +169,56 @@ Retail-Sales-Dashboard/
 │   └── dashboard.png
 │
 ├── README.md
-└── requirements.txt
-📸 Dashboard Preview
+└── Report.pdf
+```
 
-Add your dashboard screenshot inside the screenshots folder and update the image path here.
+---
 
-![Dashboard Preview](screenshots/dashboard.png)
-📈 Results
+
+
+# 📈 Results
 
 The dashboard successfully:
 
-Analyzed retail sales performance
-Identified top-selling product categories
-Compared gender-based purchasing behavior
-Visualized monthly sales trends
-Generated useful business insights
-🔮 Future Enhancements
-Profit Analysis
-Regional Sales Analysis
-Real-Time Dashboard
-Advanced Data Analytics
-Forecasting and Prediction
-🏁 Conclusion
+* Analyzed retail sales performance
+* Identified top-selling product categories
+* Compared gender-based purchasing behavior
+* Visualized monthly sales trends
+* Generated useful business insights
+
+---
+
+# 🔮 Future Enhancements
+
+* Profit Analysis
+* Regional Sales Analysis
+* Real-Time Dashboard
+* Advanced Data Analytics
+* Forecasting and Prediction
+
+---
+
+# 🏁 Conclusion
 
 This project demonstrates how Power BI can be used to analyze retail sales data and create interactive dashboards for business intelligence and decision-making. The dashboard provides clear insights into customer behavior, product performance, and sales trends.
 
-👨‍💻 Author
+---
 
-Mathavan M
+# 👨‍💻 Author
 
-GitHub: https://github.com/mathavan55
+**Mathavan M**
 
-LinkedIn: https://linkedin.com/in/mathavan-m
+GitHub: [https://github.com/your-username](https://github.com/mathavan55)
+
+LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/mathavan-m)
+
+---
+
+# 🙏 Acknowledgments
+
+* Microsoft Power BI Documentation
+* Power BI Community
+* Retail_Sales_Dataset From Kaggle
+
+```
+```
