@@ -131,3 +131,57 @@ Data Visualization
 Dashboard Development
         ↓
 Business Insights Generation
+
+
+⚙️ Installation
+Clone Repository
+git clone https://github.com/your-username/retail-sales-dashboard.git
+▶️ Usage
+Open the .pbix file in Power BI Desktop
+Refresh dataset if required
+Use slicers and filters to explore insights
+📁 Project Structure
+Retail-Sales-Dashboard/
+│
+├── dataset/
+│   └── retail_sales_dataset.csv
+│
+├── dashboard/
+│   └── retail_sales_dashboard.pbix
+│
+├── screenshots/
+│   └── dashboard.png
+│
+├── README.md
+└── requirements.txt
+📸 Dashboard Preview
+
+Add your dashboard screenshot inside the screenshots folder and update the image path here.
+
+![Dashboard Preview](screenshots/dashboard.png)
+📈 Results
+
+The dashboard successfully:
+
+Analyzed retail sales performance
+Identified top-selling product categories
+Compared gender-based purchasing behavior
+Visualized monthly sales trends
+Generated useful business insights
+🔮 Future Enhancements
+Profit Analysis
+Regional Sales Analysis
+Real-Time Dashboard
+Advanced Data Analytics
+Forecasting and Prediction
+🏁 Conclusion
+
+This project demonstrates how Power BI can be used to analyze retail sales data and create interactive dashboards for business intelligence and decision-making. The dashboard provides clear insights into customer behavior, product performance, and sales trends.
+
+👨‍💻 Author
+
+Mathavan M
+
+GitHub: https://github.com/mathavan55
+
+LinkedIn: https://linkedin.com/in/mathavan-m
